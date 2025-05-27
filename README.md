@@ -2,7 +2,7 @@
 
 - 🔭 Estou em transição de carreira, atualmente trabalhando como EletroTecnico
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas 
-- 👯 Estou me Familiarizando especialmente em desenvolvimento front-end
+- 👯 Estou me Familiarizando especialmente em desenvolvimento fullstack
 - 📫 Contate-me no email: gabrielwerra@gmail.com
 - ⚡ Apaixonado por tecnologia, uma área que combina minha paixão por tecnologia e resolução de problemas
 </div>
